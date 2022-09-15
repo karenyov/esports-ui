@@ -12,3 +12,10 @@ Este repositório contém o código desenvolvido na parte da UI Web.
 ```sh 
 //instalando dependências 
 npm i 
+
+
+// executando API
+npm run dev
+```
+
+URL API: http://localhost:5173
