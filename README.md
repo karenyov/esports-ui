@@ -14,7 +14,7 @@ Este repositório contém o código desenvolvido na parte da UI Web.
 npm i 
 
 
-// executando API
+// executando UI
 npm run dev
 ```
 
