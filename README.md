@@ -1,6 +1,8 @@
 # eSports :rocket::soccer:
 NLW eSports - [Rocketseat](https://rseat.in/nlw-edicao-esports).
 
+Link [API](https://github.com/karenyov/esports-api).
+
 Este repositório contém o código desenvolvido na parte da UI Web.
 
 ## Requisitos
